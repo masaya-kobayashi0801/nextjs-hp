@@ -20,6 +20,8 @@ export default function Contact() {
           <p className="text-xs mt-2 text-gray-600">minato city</p>
           <p className="font-bold mt-3">Email</p>
           <p className="text-xs mt-2 text-gray-600">m-kobayashi@onecre.net</p>
+          <p className="font-bold mt-3">TEL</p>
+          <p className="text-xs mt-2 text-gray-600">080-8700-0923</p>
         </div>
       </div>
     </Layout>

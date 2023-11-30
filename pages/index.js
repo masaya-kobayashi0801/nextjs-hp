@@ -29,7 +29,7 @@ export default function Home() {
               </div>
               <div className="w-3/4 p-2">
                 <div className="h-16 bg-white grid items-center">
-                  時間管理サービス
+                  個人が時間を有効に管理し、生産性を向上させるための時間管理サービスです。ToDo管理と決済機能を組み合わせ、利用者が目標を達成するために時間を最適化する手助けをします。
                 </div>
               </div>
             </div>
@@ -45,6 +45,38 @@ export default function Home() {
               </div>
               <div className="w-3/4 p-2">
                 <div className="h-16 bg-white grid items-center">JPY</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="flex justify-center">
+          <div className="w-full md:w-3/4">
+            <div className="flex flex-wrap mb-2 border border-gray-300 rounded">
+              <div className="w-1/4 p-2 border-r border-gray-300">
+                <div className="h-16 bg-gray-400 flex items-center p-2">
+                  販売価格
+                </div>
+              </div>
+              <div className="w-3/4 p-2">
+                <div className="h-16 bg-white grid items-center">¥100</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="flex justify-center">
+          <div className="w-full md:w-3/4">
+            <div className="flex flex-wrap mb-2 border border-gray-300 rounded">
+              <div className="w-1/4 p-2 border-r border-gray-300">
+                <div className="h-16 bg-gray-400 flex items-center p-2">
+                  交換および返品（返金ポリシー）
+                </div>
+              </div>
+              <div className="w-3/4 p-2">
+                <div className="h-16 bg-white grid items-center">
+                  お客様都合の返品・交換の場合：基本的に返金はお受けしておりません。
+                  <br></br>
+                  商品に不備がある場合：内容を確認後返金いたします。まずはご連絡ください。
+                </div>
               </div>
             </div>
           </div>
